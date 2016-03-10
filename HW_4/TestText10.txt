@@ -1,0 +1,1 @@
+Der Text ist ein Test um die Hausaufgabe fuer den Spark Kurs zu uberpruefen. Mal schauen ob das eine so gute Idee ist, dass zu programmieren.
