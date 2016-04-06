@@ -1,1 +1,16 @@
-Some scripts for the university course Parallel Data Processing and Analytics
+Some scripts for the Parallel Data Processing and Analytics class
+
+HW1: 
+- Basic Spark commands
+
+HW2: 
+- K-Means
+
+HW3: 
+- w-Shingling and comparison of two sets with Jaccard Similarity
+
+HW4: 
+- Most frequent words
+
+HW5: 
+- Basic Mllib commands
